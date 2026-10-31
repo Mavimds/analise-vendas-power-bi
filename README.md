@@ -6,6 +6,16 @@ Este projeto apresenta um dashboard interativo desenvolvido no Power BI com o ob
 
 A análise permite comparar os resultados realizados com as estimativas e explorar o desempenho dos produtos, canais de venda e regiões, transformando os dados em informações que apoiam a interpretação dos resultados e a tomada de decisões.
 
+## Visualização do Dashboard
+
+### Visão Geral
+
+![Visão Geral](imagens/visao-geral.png)
+
+### Análise de Produtos
+
+![Análise de Produtos](imagens/analise-produtos.png)
+
 ## Contexto e aprendizado
 
 O desenvolvimento deste projeto foi inspirado nos conhecimentos adquiridos no módulo de **Storytelling com Dados**, da Formação em Engenharia e Análise de Dados, realizada pela MCIO em parceria com a Leega.
