@@ -189,4 +189,4 @@ Os conhecimentos de Storytelling com Dados adquiridos durante a formação tamb�
 **Maria Vitória Monteiro**
 
 Estudante de Engenharia de Produção na Universidade Federal de Pernambuco (UFPE), com interesse em Análise de Dados e Engenharia de Dados.
-
+Linkedin: www.linkedin.com/in/vitoria-monteiroo
